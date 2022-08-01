@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Don't you think it's crazy that we really are out here on a floating rock in this universe full of so many intrinsic and curious things that stretch far and wide beyond comprehension. I mean wow just purely being here living every day in our own little ways every single one of us unique and different, isn't that wild. anyway here is some of my code.
+
+- 📫 How to reach me: Discord: suppaliash#2628
 <!--
 **aljazst/aljazst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
