@@ -4,7 +4,7 @@ Don't you think it's crazy that we really are out here on a floating rock in thi
 
 
 Coworker: "So how did you solve the bug?!
-Me: I used the[Ostrich algorithm] (https://en.wikipedia.org/wiki/Ostrich_algorithm)
+Me: I used the [Ostrich algorithm](https://en.wikipedia.org/wiki/Ostrich_algorithm)
 
 - 📫 How to reach me: Discord: suppaliash#2628
 <!--
