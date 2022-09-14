@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Don't you think it's crazy that we really are out here on a floating rock in this universe full of so many intrinsic and curious things that stretch far and wide beyond comprehension. I mean wow just purely being here living every day in our own little ways every single one of us unique and different, isn't that wild. anyway here is some of my code.
+here is some of my code.
 
 
 Coworker: "So how did you solve the bug?!<br/>
