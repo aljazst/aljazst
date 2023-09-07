@@ -6,7 +6,7 @@ here is some of my code.
 Coworker: "So how did you solve the bug?!<br/>
 Me: "I used the [Ostrich algorithm](https://en.wikipedia.org/wiki/Ostrich_algorithm)."
 
-- 📫 How to reach me: Discord: suppaliash#2628
+
 <!--
 **aljazst/aljazst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
